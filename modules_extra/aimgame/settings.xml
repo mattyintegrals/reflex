@@ -1,0 +1,5 @@
+<xmlData>
+<game_id>2</game_id>
+<get_salt_url>/ajax/json/play/game_get_salt</get_salt_url>
+<post_result_url>/ajax/json/play/game_result</post_result_url>
+</xmlData>
